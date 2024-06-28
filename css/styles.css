@@ -26,9 +26,7 @@ text-decoration: none;
 .header-logo .logo-part {
  color: #2e2f42;
 }
-.footer-logo .logo-part {
-    color: #f4f4fd;}
-    
+  
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -38,7 +36,7 @@ text-decoration: none;
 }
 .nav-link:hover,
 .nav-link:focus {
- color: #404bbf;
+ color: #4d5ae5;
 }
 .contacts {
     font-style: normal;
@@ -52,19 +50,8 @@ text-decoration: none;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer-logo .logo-part {
+    color: #f4f4fd;}
 
 .page-footer {
   background-color: #2e2f42;
