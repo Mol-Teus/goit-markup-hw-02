@@ -58,12 +58,8 @@ text-decoration: none;
     color: #f4f4fd;}
     
 .page-footer {
-    background-color: #2e2f42;
-}
-.footer-item {
-         
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        text-transform: uppercase;
-        color: #F4F4FD;
+    background-color: #2e2f42;    
+    line-height: 1.5;
+    letter-spacing: 0.02em; 
+    color: #F4F4FD;
 }
