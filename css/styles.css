@@ -53,8 +53,8 @@ text-decoration: none;
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
-    background-color: #404BBF;
-    color: #2e2f42;
+    background-color:#404BBF;
+    color: #404bbf;
     cursor: pointer;
 }
 
