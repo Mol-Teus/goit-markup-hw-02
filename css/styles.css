@@ -87,7 +87,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
-color: #fff;
+color:#FFFFFF;
  
 }
 .features-subtitle {
@@ -172,6 +172,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+background-color:#FFFFFF;
 }
 
 .our-portfolio-item-text {
