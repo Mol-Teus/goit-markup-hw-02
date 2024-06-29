@@ -10,9 +10,23 @@ background-color: #fff;
 ul,ol {
     list-style-type: none;
 }
+
 a {
 text-decoration: none;
 }
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
 .logo {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -23,6 +37,7 @@ text-decoration: none;
         text-transform: uppercase;
         color: #4d5ae5;
 }
+
 .header-logo .logo-part {
  color: #2e2f42;
 }
@@ -39,52 +54,117 @@ text-decoration: none;
 .contacts {
     font-style: normal;
 }
+
 .contacts-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
 }
+
 .page-title {
         font-weight: 700;
         font-size: 56px;
-        line-height: 60px; 
-        line-height: 1.8;
+        line-height: 1.7;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #fff;
-        
-        width: 1440px;
-        height: 600px;
         background-color: #2e2f42;
 }
-.button-h-one {
-        border-radius: 4px;
-        padding: 16px 32px;
-        width: 169px;
-        height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #4d5ae5;
-        font-weight: 500;
-            font-size: 16px;
-            line-height: 24px; 
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            color: #fff;
+
+.order-btn {
+font-weight: 500;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background: #4d5ae5;
+}
+.features-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    
+    color: #2e2f42;
+}
+.features-item-text {
+    font-size: 16px;
+    color: #434455;
+}
+
+/* -------Our Team ----------*/
+
+.our-team {
+ 
+}
+
+.our-team-title {
+  font-weight: 700;
+  font-size: 36px;
+  color: #2e2f42;
+}
+
+.our-team-list {
+
+}
+
+.our-team-item {
+
+}
+
+.our-team-img {
+
+}
+
+.our-team-subtitle {
+font-weight: 500;
+font-size: 20px;
+color: #2e2f42;
+ 
+}
+.our-team-item-text {
+font-weight: 400;
+font-size: 16px;
+color: #434455;
+ 
+}
+
+/*-------------Our Portfolio-----------*/
+
+.our-potrfolio {}
+
+.our-portfolio-title {
+font-weight: 700;
+font-size: 36px;
+color: #2e2f42;
+}
+
+.our-portfolio-list {}
+
+.our-portfolio-item {}
+
+.our-portfolio-img {}
+
+.our-portfolio-subtitle {
+font-weight: 500;
+font-size: 20px;
+color: #2e2f42;
+}
+
+.our-portfolio-item-text {
+font-weight: 400;
+font-size: 16px;
+color: #434455;
 }
 
 
-
-
-
-
-
+/*-------------Footer-------------*/
 
 .footer-logo .logo-part {
     color: #f4f4fd;}
