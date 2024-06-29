@@ -53,10 +53,16 @@ text-decoration: none;
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
-    background-color: #404BBF
-    
+    background-color: #404BBF;
+    color: #2e2f42;
+    cursor: pointer;
 }
 
+/*----------------H1 section---------------*/
+
+.main-title {
+    background-color:#2e2f42;
+}
 .page-title {
         font-weight: 700;
         font-size: 56px;
@@ -65,7 +71,14 @@ text-decoration: none;
         letter-spacing: 0.02em;
         background-color:#2e2f42;
         color: #fff;
-        cursor: pointer;
+         
+}
+
+.order-btn:hover,
+.order-btn:focus {
+    background-color: #404BBF;
+    color: #2e2f42;
+    cursor: pointer;
 }
 
 .order-btn {
@@ -94,6 +107,9 @@ color: #fff;
 /* -------Our Team ----------*/
 
 
+.our-team {
+    background-color: #F4F4FD;
+}
 
 .our-team-title {
   font-weight: 700;
@@ -104,7 +120,7 @@ color: #fff;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  background-color: #F4F4FD
+  background-color: #FFFFFF;
 }
 
 
@@ -177,7 +193,7 @@ color: #434455;
     background-color:#2e2f42;
 }
 
-.footer-subtitle {
+.footer-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
