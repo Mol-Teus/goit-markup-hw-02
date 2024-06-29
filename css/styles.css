@@ -188,28 +188,41 @@ color: #434455;
 /*-------------Footer-------------*/
 
 
-
-
-.footer {
-    background-color:#2e2f42;
-}
-
-.footer-link {
+.logo {
     font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+   /* .footer-nav-link {
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 21px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;
+        color: #4d5ae5;*/
+         
+
+ .footer-logo .logo-part {
+    color: #f4f4fd;
+
+    .page-footer {
+    background-color:#2e2f42;
 }
 
-.footer-logo .logo-part {
-    color: #f4f4fd;
+    
+
+
     
 } 
-  
+.footer-nav {
+
+    
+  }
 .footer-subtitle {
     font-weight: 400;
     font-size: 16px;
