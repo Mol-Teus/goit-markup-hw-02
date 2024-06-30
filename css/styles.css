@@ -190,24 +190,20 @@ background-color: #FFFFFF;
 
 .logo {
     color: #4d5ae5;
-} 
-
- .footer-logo .logo-part {
-    color: #f4f4fd;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
- }
- 
- .footer-nav-link {
+}
+ .footer-logo .logo-part {
+    color: #f4f4fd;
     font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+     
  }
     
 .footer-subtitle {
@@ -219,4 +215,5 @@ background-color: #FFFFFF;
 }
 .page-footer {
     background-color:#2e2f42;
+     
 }
