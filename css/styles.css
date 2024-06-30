@@ -110,8 +110,10 @@ color:#FFFFFF;
 .our-team {
     background-color:#F4F4FD;
 }
-.our-team-list {
-    background-color: #FFFFFF;
+
+.our-team-item {
+background-color: #FFFFFF;
+
 }
 .our-team-title {
   font-weight: 700;
