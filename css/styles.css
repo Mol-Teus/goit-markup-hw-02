@@ -148,7 +148,9 @@ color: #434455;
 }
 /*-------------Our Portfolio-----------*/
 
-
+.our-portfolio {
+    background-color: #FFFFFF;
+}
 
 .our-portfolio-title {
 font-weight: 700;
